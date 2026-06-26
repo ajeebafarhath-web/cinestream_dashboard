@@ -136,6 +136,15 @@ The dashboard includes:
 
 ---
 
+# 📸 Dashboard Preview
+
+> Dashboard Screenshot
+
+![Dashboard](<img width="1917" height="917" alt="cinestream_dashboard" src="https://github.com/user-attachments/assets/3838555b-cfc4-4658-b24e-4270978a50d2" />
+)
+
+---
+
 # ▶️ How to Run
 
 ```bash
