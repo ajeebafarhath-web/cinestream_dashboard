@@ -35,11 +35,12 @@ st.caption(
 st.markdown("---")
 
 # About Dataset
-st.subheader("📖 About the Dataset")
+st.subheader("📂 Dataset Overview")
 
 st.markdown("""
-This dashboard analyzes Movies, Series, Documentaries, and Stand-up Specials
-released between 2015 and 2024 and added to the CineStream platform between 2020 and 2024.
+The dashboard uses the **CineStream_Catalog** dataset, which contains Movies,
+Series, Documentaries, and Stand-up Specials released between **2015 and 2024**
+and added to the CineStream platform between **2020 and 2024**.
 """)
 
 #Create sidebar
