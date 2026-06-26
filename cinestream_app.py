@@ -147,7 +147,6 @@ with st.container():
     c3.metric("Watch Hours (Millions)", f"{total_watch_hours:,.2f}")
     c4.metric("Average IMDb Score", f"{avg_imdb:.2f}")
 
-st.markdown("---")
 
 #Create Tabs
 tab1, tab2, tab3, tab4 = st.tabs([
